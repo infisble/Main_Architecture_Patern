@@ -1,23 +1,5 @@
-﻿# Java Client-Server Demo
+# Java Client-Server Demo (Legacy Path)
 
-## Compile
+Use the canonical folder:
 
-```powershell
-javac SimpleServer.java SimpleClient.java
-```
-
-## Run
-
-Terminal 1:
-
-```powershell
-java SimpleServer
-```
-
-Terminal 2:
-
-```powershell
-java SimpleClient
-```
-
-The server returns an uppercase ACK response.
+- `../client-server-architecture`

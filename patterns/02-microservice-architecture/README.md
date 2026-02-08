@@ -48,7 +48,8 @@ sequenceDiagram
     G-->>C: 201 Created
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/MicroserviceArchitectureDemo`
-- Demonstrates gateway routing and service-local data ownership.
+- C#: [`examples/csharp/MicroserviceArchitectureDemo`](../../examples/csharp/MicroserviceArchitectureDemo)
+- Java: [`examples/java/microservice-architecture`](../../examples/java/microservice-architecture)
+- C++: [`examples/cpp/microservice-architecture`](../../examples/cpp/microservice-architecture)

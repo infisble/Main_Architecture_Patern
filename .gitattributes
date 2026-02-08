@@ -1,0 +1,5 @@
+# Keep language stats focused on implementation code
+*.md linguist-documentation
+
+docs/** linguist-documentation
+patterns/** linguist-documentation

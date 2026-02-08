@@ -4,3 +4,10 @@
 
 # Java build artifacts
 *.class
+
+# C/C++ build artifacts
+*.o
+*.obj
+*.out
+*.exe
+app

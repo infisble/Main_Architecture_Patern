@@ -48,7 +48,8 @@ sequenceDiagram
     UC-->>API: success result
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/HexagonalArchitectureDemo`
-- Demonstrates ports, adapters, and transfer use case.
+- C#: [`examples/csharp/HexagonalArchitectureDemo`](../../examples/csharp/HexagonalArchitectureDemo)
+- Java: [`examples/java/hexagonal-architecture`](../../examples/java/hexagonal-architecture)
+- C++: [`examples/cpp/hexagonal-architecture`](../../examples/cpp/hexagonal-architecture)

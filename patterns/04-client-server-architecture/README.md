@@ -43,12 +43,8 @@ sequenceDiagram
     C->>S: Disconnect
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/ClientServerArchitectureDemo`
-- Demonstrates TCP server and multiple clients.
-
-## Java Example
-
-- Path: `examples/java/client-server`
-- Demonstrates equivalent socket-based request/response flow.
+- C#: [`examples/csharp/ClientServerArchitectureDemo`](../../examples/csharp/ClientServerArchitectureDemo)
+- Java: [`examples/java/client-server-architecture`](../../examples/java/client-server-architecture)
+- C++: [`examples/cpp/client-server-architecture`](../../examples/cpp/client-server-architecture)

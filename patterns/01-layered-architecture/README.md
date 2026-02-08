@@ -49,7 +49,8 @@ sequenceDiagram
     C-->>UI: Response
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/LayeredArchitectureDemo`
-- Demonstrates a product listing flow through all layers.
+- C#: [`examples/csharp/LayeredArchitectureDemo`](../../examples/csharp/LayeredArchitectureDemo)
+- Java: [`examples/java/layered-architecture`](../../examples/java/layered-architecture)
+- C++: [`examples/cpp/layered-architecture`](../../examples/cpp/layered-architecture)

@@ -46,7 +46,8 @@ sequenceDiagram
     Bus-->>Notif: InventoryReserved
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/EventDrivenArchitectureDemo`
-- Demonstrates in-memory event bus with chained handlers.
+- C#: [`examples/csharp/EventDrivenArchitectureDemo`](../../examples/csharp/EventDrivenArchitectureDemo)
+- Java: [`examples/java/event-driven-architecture`](../../examples/java/event-driven-architecture)
+- C++: [`examples/cpp/event-driven-architecture`](../../examples/cpp/event-driven-architecture)

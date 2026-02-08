@@ -81,7 +81,7 @@ Scale: `1 = low`, `5 = high`
 
 | Concern | C# | Java | C++ |
 |---|---|---|---|
-| Best fit in this repository | Full examples for all 6 patterns | Additional client-server example | Additional plugin-based example |
+| Best fit in this repository | Full examples for all 6 patterns | Full examples for all 6 patterns | Full examples for all 6 patterns |
 | Typical strengths | .NET DI, async model, rapid enterprise delivery | Mature JVM networking and ecosystem | Performance, control, static binary plugins |
 | Trade-off | Framework-heavy conventions | Verbosity without frameworks | Higher memory/lifecycle complexity |
 

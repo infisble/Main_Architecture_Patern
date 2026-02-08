@@ -43,12 +43,8 @@ sequenceDiagram
     Host->>P: Unload()
 ```
 
-## C# Example
+## Implementations
 
-- Path: `examples/csharp/PluginBasedArchitectureDemo`
-- Demonstrates discovery of plugins by interface.
-
-## C++ Example
-
-- Path: `examples/cpp/plugin-based`
-- Demonstrates host and plugins using abstract interface.
+- C#: [`examples/csharp/PluginBasedArchitectureDemo`](../../examples/csharp/PluginBasedArchitectureDemo)
+- Java: [`examples/java/plugin-based-architecture`](../../examples/java/plugin-based-architecture)
+- C++: [`examples/cpp/plugin-based-architecture`](../../examples/cpp/plugin-based-architecture)
